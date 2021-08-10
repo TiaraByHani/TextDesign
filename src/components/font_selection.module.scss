@@ -1,0 +1,235 @@
+@font-face {
+  font-family: hawaiianPunk;
+  src: url(../assets/hawaiian-punk.regular.ttf);
+}
+
+@font-face {
+  font-family: blacklisted;
+  src: url(../assets/Blacklisted.ttf);
+}
+
+@font-face {
+  font-family: yellosun;
+  src: url(../assets/yellosun.ttf);
+}
+
+@font-face {
+  font-family: charlinda;
+  src: url(../assets/charlinda.ttf);
+}
+
+@font-face {
+  font-family: revamped;
+  src: url(../assets/Revamped.otf);
+}
+
+@font-face {
+  font-family: hunter;
+  src: url(../assets/Hunters.otf);
+}
+
+@font-face {
+  font-family: badaboom;
+  src: url(../assets/Badaboom.TTF);
+}
+
+@font-face {
+  font-family: inversionz;
+  src: url(../assets/Inversionz.ttf);
+}
+
+@font-face {
+  font-family: KGDefyingGravity;
+  src: url(../assets/KGDefyingGravity.ttf);
+}
+
+@font-face {
+  font-family: KindHeart;
+  src: url(../assets/KindHeart.otf);
+}
+
+@font-face {
+  font-family: SweetHipster;
+  src: url(../assets/SweetHipster.ttf);
+}
+
+@font-face {
+  font-family: CrowdPlease;
+  src: url(../assets/CrowdPlease.otf);
+}
+
+@font-face {
+  font-family: bebas;
+  src: url(../assets/Bebas.ttf);
+}
+
+@font-face {
+  font-family: HollywoodCapital;
+  src: url(../assets/HollywoodCapital.ttf);
+}
+
+@font-face {
+  font-family: HoleHearted;
+  src: url(../assets/Hole-Hearted.ttf);
+}
+
+@font-face {
+  font-family: HarryPotter;
+  src: url(../assets/HarryPotter.TTF);
+}
+
+@font-face {
+  font-family: SundayBest;
+  src: url(../assets/SundayBest.ttf);
+}
+
+@font-face {
+  font-family: Killarney;
+  src: url(../assets/Killarney.ttf);
+}
+
+.Killarney {
+  font-family: Killarney;
+}
+
+.SundayBest {
+  font-family: SundayBest;
+}
+
+.HarryPotter {
+  font-family: HarryPotter;
+}
+
+.HoleHearted {
+  font-family: HoleHearted;
+}
+
+.HollywoodCapital {
+  font-family: HollywoodCapital;
+}
+
+.bebas {
+  font-family: bebas;
+}
+
+.CrowdPlease {
+  font-family: CrowdPlease;
+}
+
+.SweetHipster {
+  font-family: SweetHipster;
+}
+
+.KindHeart {
+  font-family: KindHeart;
+}
+
+.charlinda {
+  font-family: charlinda;
+}
+
+.hawaiianPunk {
+  font-family: hawaiianPunk;
+}
+
+.blacklisted {
+  font-family: blacklisted;
+}
+
+.yellosun {
+  font-family: yellosun;
+}
+
+.watermelon {
+  font-family: watermelon;
+}
+
+.revamped {
+  font-family: revamped;
+}
+
+.hunter {
+  font-family: hunter;
+}
+
+.badaboom {
+  font-family: badaboom;
+}
+
+.inversionz {
+  font-family: inversionz;
+}
+
+.KGDefyingGravity {
+  font-family: KGDefyingGravity;
+}
+
+.dropdownFont {
+  width: 40%;
+  height: 40px;
+}
+
+.container {
+  border-radius: 25px;
+  border: 0px;
+  width: 40%;
+  height: 40px;
+  background-color: #e9f7ff;
+  margin: 10px;
+  align-items: center;
+}
+
+.inputField {
+  width: 80%;
+  height: 40px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.selected {
+  background-color: #ffeff5;
+}
+
+.roundContainerPlus {
+  border-radius: 20%;
+  background-color: #e9f7ff;
+  border: 0px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.roundContainerMinus {
+  border-radius: 20%;
+  background-color: #ffeff5;
+  border: 0px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.roundContainer {
+  border-radius: 20%;
+  background-color: #e9f7ff;
+  border: 0px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.alertBox {
+  background-color: #ffeff5;
+  width: 80%;
+  margin: 10px 0px 10px 0px;
+  border: 1px dashed lightcoral;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 10px;
+  font-weight: 400;
+}
+
+.contentDiv {
+  display: contents;
+  font-size: 18px;
+}
+
+.body {
+  text-align: -webkit-center;
+}
