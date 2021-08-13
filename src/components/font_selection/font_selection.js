@@ -16,7 +16,7 @@ export default function FontSelection() {
       styling: style.charlinda,
     },
     {
-      name: "Font #3",
+      name: "(Font #3)",
       styling: style.SweetHipster,
     },
     {
@@ -56,11 +56,11 @@ export default function FontSelection() {
       styling: style.SundayBest,
     },
     {
-      name: "Font #13",
+      name: "[FONT|#13]",
       styling: style.KGDefyingGravity,
     },
     {
-      name: "Font #14",
+      name: "font #14",
       styling: style.inversionz,
     },
     {
@@ -87,6 +87,7 @@ export default function FontSelection() {
 
   return (
     <div className={style.body}>
+      <div className={style.title}>Tiara Font Preview</div>
       <p className={selectedFont} style={{ fontSize: fontSize + "px" }}>
         {inputName}
       </p>

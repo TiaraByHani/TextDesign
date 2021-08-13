@@ -1,10 +1,12 @@
 import "./App.css";
-import FontSelection from "./components/font_selection";
+import Main from "./components/main/main";
 
 function App() {
   return (
     <div className="App">
-      <FontSelection />
+      <div>
+        <Main />
+      </div>
     </div>
   );
 }

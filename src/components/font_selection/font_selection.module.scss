@@ -1,167 +1,181 @@
 @font-face {
   font-family: hawaiianPunk;
-  src: url(../assets/hawaiian-punk.regular.ttf);
+  src: url(../../fontSelection/hawaiian-punk.regular.ttf);
 }
 
 @font-face {
   font-family: blacklisted;
-  src: url(../assets/Blacklisted.ttf);
+  src: url(../../fontSelection/Blacklisted.ttf);
 }
 
 @font-face {
   font-family: yellosun;
-  src: url(../assets/yellosun.ttf);
+  src: url(../../fontSelection/yellosun.ttf);
 }
 
 @font-face {
   font-family: charlinda;
-  src: url(../assets/charlinda.ttf);
+  src: url(../../fontSelection/charlinda.ttf);
 }
 
 @font-face {
   font-family: revamped;
-  src: url(../assets/Revamped.otf);
+  src: url(../../fontSelection/Revamped.otf);
 }
 
 @font-face {
   font-family: hunter;
-  src: url(../assets/Hunters.otf);
+  src: url(../../fontSelection/Hunters.otf);
 }
 
 @font-face {
   font-family: badaboom;
-  src: url(../assets/Badaboom.TTF);
+  src: url(../../fontSelection/Badaboom.TTF);
 }
 
 @font-face {
   font-family: inversionz;
-  src: url(../assets/Inversionz.ttf);
+  src: url(../../fontSelection/Inversionz.ttf);
 }
 
 @font-face {
   font-family: KGDefyingGravity;
-  src: url(../assets/KGDefyingGravity.ttf);
+  src: url(../../fontSelection/KGDefyingGravity.ttf);
 }
 
 @font-face {
   font-family: KindHeart;
-  src: url(../assets/KindHeart.otf);
+  src: url(../../fontSelection/KindHeart.otf);
 }
 
 @font-face {
   font-family: SweetHipster;
-  src: url(../assets/SweetHipster.ttf);
+  src: url(../../fontSelection/SweetHipster.ttf);
 }
 
 @font-face {
   font-family: CrowdPlease;
-  src: url(../assets/CrowdPlease.otf);
+  src: url(../../fontSelection/CrowdPlease.otf);
 }
 
 @font-face {
   font-family: bebas;
-  src: url(../assets/Bebas.ttf);
+  src: url(../../fontSelection/Bebas.ttf);
 }
 
 @font-face {
   font-family: HollywoodCapital;
-  src: url(../assets/HollywoodCapital.ttf);
+  src: url(../../fontSelection/HollywoodCapital.ttf);
 }
 
 @font-face {
   font-family: HoleHearted;
-  src: url(../assets/Hole-Hearted.ttf);
+  src: url(../../fontSelection/Hole-Hearted.ttf);
 }
 
 @font-face {
   font-family: HarryPotter;
-  src: url(../assets/HarryPotter.TTF);
+  src: url(../../fontSelection/HarryPotter.TTF);
 }
 
 @font-face {
   font-family: SundayBest;
-  src: url(../assets/SundayBest.ttf);
+  src: url(../../fontSelection/SundayBest.ttf);
 }
 
 @font-face {
   font-family: Killarney;
-  src: url(../assets/Killarney.ttf);
+  src: url(../../fontSelection/Killarney.ttf);
 }
 
 .Killarney {
   font-family: Killarney;
+  font-size: 20px;
 }
 
 .SundayBest {
   font-family: SundayBest;
+  font-size: 12px;
 }
 
 .HarryPotter {
   font-family: HarryPotter;
+  font-size: 22px;
 }
 
 .HoleHearted {
   font-family: HoleHearted;
+  font-size: 20px;
 }
 
 .HollywoodCapital {
   font-family: HollywoodCapital;
+  font-size: 20px;
 }
 
 .bebas {
   font-family: bebas;
+  font-size: 22px;
 }
 
 .CrowdPlease {
   font-family: CrowdPlease;
+  font-size: 25px;
 }
 
 .SweetHipster {
   font-family: SweetHipster;
+  font-size: 25px;
 }
 
 .KindHeart {
   font-family: KindHeart;
+  font-size: 14px;
 }
 
 .charlinda {
   font-family: charlinda;
+  font-size: 15px;
 }
 
 .hawaiianPunk {
   font-family: hawaiianPunk;
+  font-size: 18px;
 }
 
 .blacklisted {
   font-family: blacklisted;
+  font-size: 15px;
 }
 
 .yellosun {
   font-family: yellosun;
-}
-
-.watermelon {
-  font-family: watermelon;
+  font-size: 24px;
 }
 
 .revamped {
   font-family: revamped;
+  font-size: 16px;
 }
 
 .hunter {
   font-family: hunter;
+  font-size: 28px;
 }
 
 .badaboom {
   font-family: badaboom;
+  font-size: 20px;
 }
 
 .inversionz {
   font-family: inversionz;
+  font-size: 20px;
 }
 
 .KGDefyingGravity {
   font-family: KGDefyingGravity;
+  font-size: 25px;
 }
 
 .dropdownFont {
@@ -232,4 +246,9 @@
 
 .body {
   text-align: -webkit-center;
+}
+
+.title {
+  font-size: 15px;
+  font-family: SundayBest;
 }
