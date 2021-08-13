@@ -7,6 +7,7 @@ export default function Main() {
     <div>
       <img className={style.logo} src={TiaraLogo} alt="TiaraLogo" />
       <FontSelection />
+      <div className={style.header}>Tiara Han Enterprise</div>
     </div>
   );
 }

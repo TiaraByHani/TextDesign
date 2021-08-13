@@ -2,7 +2,7 @@ import { useState } from "react";
 import style from "./font_selection.module.scss";
 
 export default function FontSelection() {
-  const [selectedFont, setSelectedFont] = useState(style.blacklisted);
+  const [selectedFont, setSelectedFont] = useState(style.yellosun);
   const [fontSize, setFontSize] = useState(50);
   const [inputName, setInputName] = useState("");
 
